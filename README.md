@@ -11,7 +11,6 @@ python -V 查看python版本（ps:VVV 大写）
 >>> if flag:
 ...		print("hello")
 ```
-<br />
 结果报``File (stdin),line 2``的错误，提示```print("hello")```这句有错误
 <br />
 原来是没有跳格，错误、正确输入如下图：
